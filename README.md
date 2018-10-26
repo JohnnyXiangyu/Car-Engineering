@@ -1,2 +1,3 @@
 # Car-Engineering
-The mechanical part of the other project.
+This is the mechanical part of the other project.
+Objective: Designing and printing the gearbox (Oct. 26)
